@@ -1,5 +1,5 @@
-# servo
-## ボード
+# kitagawa
+## lock
 | ファイル名 | 使用したボード | 追加のボードマネージャー |
 |-----|-----|-----|
 | lock.ino | Raspberry pi pico | 忘れたので，後で書きます |
